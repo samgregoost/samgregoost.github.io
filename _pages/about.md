@@ -33,6 +33,7 @@ Recent News
 * March, 2022: *Enabling equivariance for arbitrary Lie groups* accepted to **CVPR**, 2022
 * September, 2021: *Rethinking conditional GAN training: An approach using geometrically structured latent manifolds* accepted to **NeurIPS**, 2021
 * January, 2021: *Conditional Generative Modeling via Learning the Latent Space* accepted to **ICLR**, 2021
+* June, 2021: *Synthesized feature based few-shot class-incremental learning on a mixture of subspaces* accepted to **ICCV**, 2021
 
 
 Site-wide configuration
