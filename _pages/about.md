@@ -25,11 +25,14 @@ Recent News
 
 * December, 2022: *A learnable radial-basis embedding for coordinate-MLPs* accepted to **AAAI (Oral)**, 2023
 * September, 2022: *On the frequency bias of coordinate-MLPs* accepted to **NeurIPS**, 2022
+* September, 2022: *Robust normalizing flows using Bernstein-type polynomials* accepted to **BMVC**, 2022
 * July, 2022: *Beyond Periodicity: Towards a unifying framework for activations in coordnate-MLPs* accepted to **ECCV (Oral)**, 2022
 * July, 2022: *Trading Positional Complexity vs Deepness in Coordinate Networks* accepted to **ECCV**, 2022
 * July, 2022: *Few-Shot Class-Incremental Learning for 3D Point Cloud Objects* accepted to **ECCV**, 2022
 * July, 2022: *Gaussian activated neural radiance fields for high fidelity reconstruction and pose estimation* accepted to **ECCV**, 2022
 * March, 2022: *Enabling equivariance for arbitrary Lie groups* accepted to **CVPR**, 2022
+* September, 2021: *Rethinking conditional GAN training: An approach using geometrically structured latent manifolds* accepted to **NeurIPS**, 2021
+* January, 2021: *Conditional Generative Modeling via Learning the Latent Space* accepted to **ICLR**, 2021
 
 
 Site-wide configuration
