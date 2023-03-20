@@ -7,13 +7,13 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Your Name / Site Title"
+title                    : "Sameera Ramasinghe"
 title_separator          : "-"
-name                     : &name "Your Name"
-description              : &description "personal description"
-url                      : https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+name                     : &name "Sameera Ramasinghe"
+description              : &description "I work as an Applied Scientist at Amazon. I completed my B.Sc. (Hons) degree from the Department of Electronic and Telecommunication Engineering, University of Moratuwa and completed my PhD at the Australian National University. My research interests include theoretical machine learning and computer vision. I am also a co-founder of ConscientAI and a research fellow at the University of Adelaide."
+url                      : https://samgregoost.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "academicpages/academicpages.github.io"
+repository               : "samgregoost/samgregoost.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
