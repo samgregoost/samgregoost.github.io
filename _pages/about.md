@@ -23,9 +23,9 @@ Career Highlights
 Recent News
 ======
 
-* December, 2022: *A learnable radial-basis embedding for coordinate-MLPs* accepted to AAAI, 2023
-* September, 2022: *On the frequency bias of coordinate-MLPs accepted to NeurIPS*, 2022
-* July, 2022: *Beyond Periodicity: Towards a unifying framework for activations in coordnate-MLPs* accepted to ECCV (Oral), 2022
+* December, 2022: *A learnable radial-basis embedding for coordinate-MLPs* accepted to **AAAI (Oral)**, 2023
+* September, 2022: *On the frequency bias of coordinate-MLPs* accepted to **NeurIPS**, 2022
+* July, 2022: *Beyond Periodicity: Towards a unifying framework for activations in coordnate-MLPs* accepted to **ECCV (Oral)**, 2022
 
 
 Site-wide configuration
