@@ -14,6 +14,7 @@ Career Highlights
 ======
 
 * Applied scientist at Amazon
+* Former postdoc at the Australian Institute for Machine Learning
 * Co-Founder/Director at ConscientAI
 * Former software engineer at WSO2
 * Former software engineer at Neurotechnology Lab
@@ -32,10 +33,21 @@ Recent News
 * July, 2022: *Gaussian activated neural radiance fields for high fidelity reconstruction and pose estimation* accepted to **ECCV (Oral)**, 2022
 * March, 2022: *Enabling equivariance for arbitrary Lie groups* accepted to **CVPR**, 2022
 * September, 2021: *Rethinking conditional GAN training: An approach using geometrically structured latent manifolds* accepted to **NeurIPS**, 2021
+* February, 2021: Completed PhD at the Australian National University
 * January, 2021: *Conditional Generative Modeling via Learning the Latent Space* accepted to **ICLR**, 2021
 * June, 2021: *Synthesized feature based few-shot class-incremental learning on a mixture of subspaces* accepted to **ICCV**, 2021
+* June, 2020: *Spectral-GANs for high-resolution 3D point-cloud generation* accepted to **IROS**, 2020
+* February, 2020: *Representation learning on unit ball with 3d roto-translational equivariance* accepted to **IJCV**
+* December, 2019 *Learned and Hand-crafted Feature Fusion in Unit Ball for 3D Object Classification* won the best student paper award in **ICPRAM**, 2020
+* 2020: *Blended convolution and synthesis for efficient discrimination of 3D shapes* accepted to **WACV**, 2020
+* 2018: *A context-aware capsule network for multi-label classification* accepted to **ECCV**, 2018
+* November, 2017: Completed M.Phil. at the University of Moratuwa
+* 2017: *Combined static and motion features for deep-networks-based activity recognition in videos* accepted to **TCSVT**
+* 2017: *Micro Actions and Deep Static Features for Activity Recognition* accepted to **DICTA**, 2017
+* February, 2014: Completed B.Sc. (Hons) in Electronic and Telecommunication engineering at the University of Moratuwa.
 
 
+<!-- 
 Site-wide configuration
 ------
 The main configuration file for the site is in the base directory in [_config.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_config.yml), which defines the content in the sidebars and other site-wide features. You will need to replace the default variables with ones about yourself and your site's github repository. The configuration file for the top menu is in [_data/navigation.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_data/navigation.yml). For example, if you don't have a portfolio or blog posts, you can remove those items from that navigation.yml file to remove them from the header. 
@@ -58,4 +70,4 @@ Example: editing a markdown file for a talk
 
 For more info
 ------
-More info about configuring academicpages can be found in [the guide](https://academicpages.github.io/markdown/). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful.
+More info about configuring academicpages can be found in [the guide](https://academicpages.github.io/markdown/). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful. -->
