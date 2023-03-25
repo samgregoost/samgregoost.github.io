@@ -336,12 +336,18 @@
     
       <div class="columns is-centered has-text-centered">
       <div class="column is-four-fifths">
-        <h2 class="title is-3">RoDynRF</h2>
+        <h2 class="title is-3">BLiRF</h2>
       </div>
     </div>
     <center><img src="./static/images/teaser.jpg"/></center>
     <p>
-      RoDynRF addresses the robustness issue of SfM algorithms by jointly estimating the static and dynamic radiance fields along with the camera parameters (poses and focal length).
+      BLiRF offers a theoretical framework that enables efficient integration of implicit
+neural priors and well-defined explicit priors (inspired by NRSFM). Thus, BLiRF can be considered as a bridge between NeRF and NRSfM.
+In particualr, BLiRF model the light and density fields
+of a 3D scene as bandlimited, high-dimensional signals.
+This standpoint enables complete factorization of spatio-
+temporal dynamics, allowing us to inject explicit priors on
+the time and space dynamics independently. 
     </p>
     <!-- <div class="columns is-centered has-text-centered">
       <div class="column is-four-fifths">
