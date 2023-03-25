@@ -360,14 +360,15 @@ the time and space dynamics independently.
     </div> -->
     
     <br>
-    <h2 class="title is-4">Evaluation of camera poses estimation on the MPI Sintel dataset.</h2>
+    <h2 class="title is-4">Evaluation on topologically varying scenes</h2>
     <div class="columns is-centered has-text-centered">
       <div class="column is-four-fifths">
         <div class="content has-text-justified">
-          <center><img src="./static/images/sintel_table.png" width="55%"/></center>
-          <center><img src="./static/images/sintel_figure.png" width="55%"/></center>
+          <center><img src="./static/images/hypernerf.png" width="55%"/></center>
+<!--           <center><img src="./static/images/sintel_figure.png" width="55%"/></center> -->
           <p>
-            Our method performs significantly better than existing NeRF-based pose estimation methods. Note that our method also performs favorably against existing learning-based visual odometry methods.
+            Our formulation implicitly enables effective modeling of topologically varying scenes. We obtain comparable results against the state-of-the-art 
+            and use significantly less compute resources, e.g. 64 hours on 4 TPU v4s (HyperNeRF) vs 3 hours on a single V100 (ours).
           </p>
         </div>
       </div>
