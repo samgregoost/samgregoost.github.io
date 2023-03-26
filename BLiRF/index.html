@@ -405,7 +405,123 @@ the time and space dynamics independently.
   </div>
 </section>
   
+ 
+  <section class="section">
+  <div class="container is-max-desktop">
+    <!-- Abstract. -->
+<!--     <div class="columns is-centered has-text-centered">
+      <div class="column is-four-fifths">
+        <h2 class="title is-3">Abstract</h2>
+        <div class="content has-text-justified">
+          <p>
+            Reasoning the 3D structure of a non-rigid dynamic scene from a single moving camera is an under-constrained problem. Inspired by the remarkable progress of neural radiance fields (NeRFs) in photo-realistic novel view synthesis of static scenes, extensions have been proposed for dynamic settings. These methods heavily rely on neural priors in order to regularize the problem. In this work, we take a step back and reinvestigate how current implementations may entail deleterious effects, including limited expressiveness, entanglement of light and density fields, and sub-optimal motion localization. As a remedy, we advocate for a bridge between classic non-rigid-structure-from-motion (\nrsfm) and NeRF, enabling the well-studied priors of the former to constrain the latter. To this end, we propose a framework that factorizes time and space by formulating a scene as a composition of bandlimited, high-dimensional signals. We demonstrate compelling results across complex dynamic scenes that involve changes in lighting, texture and long-range dynamics. 
+          </p>
+<!--           <p>
+            Our approach augments neural radiance fields
+            (NeRF) by optimizing an
+            additional continuous volumetric deformation field that warps each observed point into a
+            canonical 5D NeRF.
+            We observe that these NeRF-like deformation fields are prone to local minima, and
+            propose a coarse-to-fine optimization method for coordinate-based models that allows for
+            more robust optimization.
+            By adapting principles from geometry processing and physical simulation to NeRF-like
+            models, we propose an elastic regularization of the deformation field that further
+            improves robustness.
+          </p>
+          <p>
+            We show that <span class="dnerf">Nerfies</span> can turn casually captured selfie
+            photos/videos into deformable NeRF
+            models that allow for photorealistic renderings of the subject from arbitrary
+            viewpoints, which we dub <i>"nerfies"</i>. We evaluate our method by collecting data
+            using a
+            rig with two mobile phones that take time-synchronized photos, yielding train/validation
+            images of the same pose at different viewpoints. We show that our method faithfully
+            reconstructs non-rigidly deforming scenes and reproduces unseen views with high
+            fidelity.
+          </p> -->
+<!--         </div>
+      </div>
+    </div> -->
+    <!--/ Abstract. -->
+
+    <!-- Paper video. -->
+<!--     <div class="columns is-centered has-text-centered">
+      <div class="column is-four-fifths">
+        <h2 class="title is-3">Video</h2>
+        <div class="publication-video">
+          <iframe src="https://www.youtube.com/embed/MrKrnHhk8IA?rel=0&amp;showinfo=0"
+                  frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+        </div>
+      </div>
+    </div> -->
+    <!--/ Paper video. -->
+    
+<!--       <div class="columns is-centered has-text-centered">
+      <div class="column is-four-fifths">
+        <h2 class="title is-3">BLiRF</h2>
+      </div>
+    </div>
+    <center><img src="./static/images/arch.jpg"/></center>
+    <p>
+      BLiRF offers a theoretical framework that enables efficient integration of implicit
+neural priors and well-defined explicit priors (inspired by NRSFM). Thus, BLiRF can be considered as a bridge between NeRF and NRSfM.
+In particualr, BLiRF model the light and density fields
+of a 3D scene as bandlimited, high-dimensional signals.
+This standpoint enables complete factorization of spatio-
+temporal dynamics, allowing us to inject explicit priors on
+the time and space dynamics independently. 
+    </p> --> -->
+    <!-- <div class="columns is-centered has-text-centered">
+      <div class="column is-four-fifths">
+        <div class="content has-text-justified">
+          <p>
+            RoDynRF addresses the robustness issue of SfM algorithms by jointly estimating the static and dynamic radiance fields along with the camera parameters (poses and focal length).
+          </p>
+        </div>
+      </div>
+    </div> -->
+    
+    <br>
+    <h2 class="title is-4"><center>Evaluation on topologically varying scenes</center></h2>
+    <div class="columns is-centered has-text-centered">
+      <div class="column is-four-fifths">
+        <div class="content has-text-justified">
+          <center><img src="./static/images/nvidia.png" width="100%"/></center>
+<!--           <center><img src="./static/images/sintel_figure.png" width="55%"/></center> -->
+          <p>
+            Our method achieves state-of-the-art results.
+          </p>
+        </div>
+      </div>
+    </div>
+    
+
+   
+ <!--     <br>   
+    <br>
+    <h2 class="title is-4">Consistent geometry.</h2>
+    <div class="columns is-centered has-text-centered">
+      <div class="column is-four-fifths">
+        <div class="content has-text-justified">
+          <video id="teaser" autoplay muted loop playsinline controls width="99%">
+        <source src="./static/videos/consistent_geometry.mp4"
+                type="video/mp4">
+      </video>
+          <p>
+            Our method reconstructs consistent geometry.
+          </p>
+        </div>
+      </div>
+    </div>  
+    
+    
+    
+  </div> -->
   
+ </div>   
+</section>
+    
+<!--     
  <section class="section">
    <h2 class="title is-4">Novel view synthesis results on the Nvidia Dynamic Scene dataset.</h2>
     <div class="columns is-centered has-text-centered">
@@ -414,13 +530,13 @@ the time and space dynamics independently.
 <!--           <center><img src="./static/images/nvidia_table.png" width="99%"/></center> -->
           <center><img src="./static/images/nvidia.png" width="99%"/></center>
           <p>
-           <center> Our method achieves state-of-the-art results.</center>
+           <center> </center>
           </p>
         </div>
       </div>
     </div>
   
-  </section>
+  </section> -->
 
 
 <section class="section">
